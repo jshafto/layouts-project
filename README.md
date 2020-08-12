@@ -14,5 +14,5 @@ This project has two aims, first to recreate a Trello dashboard using Flexbox, a
 ### Recreate NYTimes layout with CSS Grid
 - [x] Set up 10-section full page grid
 - [x] Header layout
-- [ ] Main and sidebar layout
-- [ ] Layout remaining news sections
+- [x] Main and sidebar layout
+- [x] Layout remaining news sections
