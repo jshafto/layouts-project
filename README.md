@@ -9,7 +9,7 @@ This project has two aims, first to recreate a Trello dashboard using Flexbox, a
 - [x] Create the header nav bar
 - [x] Layout the "My Team" section
 - [x] Create the tabbed nav bar
-- [ ] Create the boards
+- [x] Create the boards
 
 ### Recreate NYTimes layout with CSS Grid
 - [ ] Set up 10-section full page grid
