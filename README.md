@@ -1,5 +1,5 @@
 # Layouts Project
-This project was completed as part of the App Academy curriculum. Implementation by Juliet Shafto and .
+This project was completed as part of the App Academy curriculum. Implementation by Juliet Shafto and Ben Pu.
 
 ## Project Description
 This project has two aims, first to recreate a Trello dashboard using Flexbox, and second to use CSS Grid to implement the layout of the NYTimes homepage.
